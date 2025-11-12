@@ -2,10 +2,11 @@ Assignment 4
 ------------
 
 # Team Members
-
+Keanu Belo da Silva
+Flurina Baumbach
 # GitHub link to your (forked) repository (if submitting through GitHub)
 
-...
+https://github.com/flurinasophie/LogicalClocks.git
 
 # Task 2
 
